@@ -1,0 +1,18 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1436 entries, 0 to 1435
+Data columns (total 11 columns):
+ #   Column      Non-Null Count  Dtype 
+---  ------      --------------  ----- 
+ 0   Unnamed: 0  1436 non-null   object
+ 1   Price       1436 non-null   object
+ 2   Age         1336 non-null   object
+ 3   KM          1436 non-null   object
+ 4   FuelType    1336 non-null   object
+ 5   HP          1436 non-null   object
+ 6   MetColor    1286 non-null   object
+ 7   Automatic   1436 non-null   object
+ 8   CC          1436 non-null   object
+ 9   Doors       1436 non-null   object
+ 10  Weight      1436 non-null   object
+dtypes: object(11)
+memory usage: 123.5+ KB

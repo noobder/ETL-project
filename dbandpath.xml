@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<DB>
+	<DBbody>
+		<file_path>C:\Users\Administrator\Downloads\Toyota.csv</file_path>
+		<host>localhost</host>
+		<db_database>mysql</db_database>
+		<db_user>root</db_user>
+		<password>Root</password>
+		<db_table1>merge</db_table1>
+	</DBbody>
+</DB>
